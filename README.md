@@ -1,19 +1,14 @@
 Veroclassic Core integration/staging tree
 =====================================
 
-https://veroclassic.org
-
 What is Veroclassic?
 ----------------
 
-Veroclassic is an experimental new digital currency that enables instant payments to
+Veroclassic is an experimental new digital currency that enables instant payments to 
 anyone, anywhere in the world. Veroclassic uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Veroclassic Core is the name of open source
-software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Veroclassic Core software, see https://veroclassic.org
+ software which enables the use of this currency.
 
 License
 -------
@@ -55,7 +50,7 @@ lots of money.
 
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
-Creating a thread in the [Veroclassic discussion forum](https://veroclassictalk.org/index.php?board=2.0) will allow the Veroclassic
+Creating a thread in github will allow the Veroclassic 
 development team members to review your proposal and to provide assistance with creating a test plan. 
 
 
@@ -63,9 +58,7 @@ Translations
 ------------
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
-
-We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
+pull from Transifex would automatically overwrite them again..
 Translations are converted to Veroclassic periodically.
 
 Development tips and tricks
